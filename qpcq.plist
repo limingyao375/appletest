@@ -9,9 +9,9 @@
 			<array>
 				<dict>
 					<key>kind</key>
-					<string>software-package</string>
+					<string>青浦创全</string>
 					<key>url</key>
-					<string>https://www.tasty-china.com/qpcq.ipa</string>
+					<string>http://citygis.tasty-china.com/MobileAppUpdate/qpcq.ipa</string>
 				</dict>
 				
 			</array>
@@ -22,9 +22,9 @@
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
-				<string>software</string>
+				<string>qpcq</string>
 				<key>title</key>
-				<string>App download</string>
+				<string>青浦创全download</string>
 			</dict>
 		</dict>
 	</array>
